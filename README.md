@@ -2,7 +2,7 @@
 
 I am currently a graduate student. 
 
-If you have questions about my code, email me to [mzh473243613@gmail.com]
+If you have questions about my code, email me to [mzh473243613@gmail.com](mzh473243613@gmail.com)
 <!--
 **Waken-dream/Waken-dream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
